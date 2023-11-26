@@ -1,5 +1,8 @@
-function start() {
-    alert('start1');
+function clickAllOffers() {
+    const elements = document.querySelectorAll('mds-icon');
+    for (const element of elements) {
+        element.click();
+    }
 }
 
-document.getElementById('startClicking').addEventListener('click', start);
+clickAllOffers();
