@@ -1,9 +1,9 @@
 {
-    "manifest_version": 3,
-    "name": "Chase Offer",
-    "description": "Clicks chase offers.",
-    "version": "1.0",
-    "action": {
-      "default_popup": "chase.html"
-    }
+  "manifest_version": 3,
+  "name": "Chase Offer Clicker",
+  "description": "Clicks chase offers.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "main.html"
   }
+}
