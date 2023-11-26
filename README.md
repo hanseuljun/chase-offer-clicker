@@ -1,1 +1,1 @@
-# chase-offers
+# chase-offer-clicker
